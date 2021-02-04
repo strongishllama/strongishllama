@@ -1,9 +1,9 @@
 ## Hi there 👋
-I'm Taliesin, and I'm a Software Developer at [2pi Software](https://github.com/2pisoftware). I have a passion for creating serverless applications, infrastructure as code and little, yet helpful Golang [packages](https://github.com/gofor-little).
+I'm Taliesin, a Software Developer working at [2pi Software](https://github.com/2pisoftware). I have a passion for creating serverless applications, infrastructure as code and little, yet helpful Golang [packages](https://github.com/gofor-little).
 
 ## Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?labelColor=0077B5&logo=LinkedIn&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/taliesin-millhouse-00001)
-[![Gamil](https://img.shields.io/badge/Gmail-grey?labelColor=EA4335&logo=Gmail&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/taliesin-millhouse-00001)
+[![Gmail](https://img.shields.io/badge/Gmail-grey?labelColor=EA4335&logo=Gmail&style=for-the-badge&logoColor=white)](mailto:taliesinwrmillhouse@gmail.com)
 
 ## Skills
 ![AWS](https://img.shields.io/badge/aws-grey?labelColor=ff9d00&logo=Amazon&style=for-the-badge&logoColor=white)
