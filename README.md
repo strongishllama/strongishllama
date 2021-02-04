@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Taliesin, and I'm a Software Developer at [2pi Software](https://github.com/2pisoftware). I have a passion for creating serverless applications, infrastructure as code and little, yet helpful Go [packages](https://github.com/gofor-little).
+I'm Taliesin, and I'm a Software Developer at [2pi Software](https://github.com/2pisoftware). I have a passion for creating serverless applications, infrastructure as code and little, yet helpful Golang [packages](https://github.com/gofor-little).
 
 ## Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?labelColor=0077B5&logo=LinkedIn&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/taliesin-millhouse-00001)
@@ -21,5 +21,5 @@ I'm Taliesin, and I'm a Software Developer at [2pi Software](https://github.com/
 ![Git](https://img.shields.io/badge/Git-grey?labelColor=f14e32&logo=Git&style=for-the-badge&logoColor=white)
 
 ## Stats
-![GitHub Stats](https://github-readme-stats.char-al.vercel.app/api?username=strongishllama&show_icons=true&count_private=true&title_color=000000&text_color000000&bg_color=45,2193b0,6dd5ed)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strongishllama&hide=html&title_color=000000&text_color000000&bg_color=45,2193b0,6dd5ed)
+![GitHub Stats](https://github-readme-stats.char-al.vercel.app/api?username=strongishllama&show_icons=true&count_private=true&title_color=000000&text_color000000&bg_color=45,0390fc,03e8fc)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strongishllama&hide=html&title_color=000000&text_color000000&bg_color=45,0390fc,03e8fc)
