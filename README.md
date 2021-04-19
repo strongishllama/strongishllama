@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Taliesin, a Software Developer working at [2pi Software](https://github.com/2pisoftware). I have a passion for creating **serverless applications**, **infrastructure as code** and little, yet helpful Golang [packages](https://github.com/gofor-little).
+I'm Taliesin, a Software Developer working at [2pi Software](https://github.com/2pisoftware). I have a passion for creating **serverless applications**, **infrastructure as code** and little, yet helpful Go [packages](https://github.com/gofor-little).
 
 ## Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?labelColor=0077B5&logo=LinkedIn&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/taliesin-millhouse-00001)
