@@ -3,21 +3,18 @@ I'm Taliesin, a Software Developer working at [2pi Software](https://github.com/
 
 ## Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?labelColor=0077B5&logo=LinkedIn&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/taliesin-millhouse-00001)
-[![Gmail](https://img.shields.io/badge/Gmail-grey?labelColor=EA4335&logo=Gmail&style=for-the-badge&logoColor=white)](mailto:taliesinwrmillhouse@gmail.com)
 
 ## Skills
 ![AWS](https://img.shields.io/badge/aws-grey?labelColor=ff9d00&logo=Amazon&style=for-the-badge&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-grey?labelColor=007d9c&logo=Go&style=for-the-badge&logoColor=white)
 ![Golang](https://img.shields.io/badge/Typescript-grey?labelColor=3178c6&logo=Typescript&style=for-the-badge&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-grey?labelColor=4F5B93&logo=PHP&style=for-the-badge&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-grey?labelColor=1389FD&logo=Flutter&style=for-the-badge&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-grey?labelColor=42b983&logo=Vue.js&style=for-the-badge&logoColor=white)
 ![Bulma](https://img.shields.io/badge/Bulma-grey?labelColor=00d1b2&logo=Bulma&style=for-the-badge&logoColor=white)
 
 ## Tools
 ![Linux](https://img.shields.io/badge/linux-grey?labelColor=000000&logo=Linux&style=for-the-badge&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-grey?labelColor=e95420&logo=Ubuntu&style=for-the-badge&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Windows-grey?labelColor=0067b8&logo=Windows&style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-grey?labelColor=f14e32&logo=Git&style=for-the-badge&logoColor=white)
 
 ## Stats
