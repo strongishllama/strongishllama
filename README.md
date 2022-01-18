@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Taliesin, a Platform Engineer working at [Max Kelsen](https://github.com/MaxKelsen). I have a passion for creating serverless applications, infrastructure as code and little, yet helpful Go [packages](https://github.com/gofor-little).
+I'm Taliesin, a Platform Engineer working at [Max Kelsen](https://github.com/MaxKelsen). I have a passion for creating cloud-native applications with laC and Golang. 
 
 ## Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?labelColor=0077B5&logo=LinkedIn&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/taliesin-millhouse-00001)
