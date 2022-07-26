@@ -1,22 +1,24 @@
 ## Hi there 👋
-I'm Taliesin, a Platform Engineer working at [Max Kelsen](https://github.com/MaxKelsen). I have a passion for creating cloud-native applications with laC and Golang. 
+I'm Taliesin, a Platform Engineer living in Canberra Australia and working at [Max Kelsen](https://github.com/MaxKelsen) Australia creating cloud-native applications, CI/CD pipelines and automated testing workflows in both Amazon Web Services (AWS) and Google Cloud Platform (GCP).
 
 ## Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?labelColor=0077B5&logo=LinkedIn&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/taliesin-millhouse-00001)
+[![](https://img.shields.io/badge/LinkedIn-grey?labelColor=0A66C2&logo=LinkedIn&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/taliesin-millhouse-00001)
 
 ## Skills
-![AWS](https://img.shields.io/badge/aws-grey?labelColor=ff9d00&logo=Amazon&style=for-the-badge&logoColor=white)
-![Golang](https://img.shields.io/badge/Golang-grey?labelColor=007d9c&logo=Go&style=for-the-badge&logoColor=white)
-![Golang](https://img.shields.io/badge/Typescript-grey?labelColor=3178c6&logo=Typescript&style=for-the-badge&logoColor=white)
-![PHP](https://img.shields.io/badge/php-grey?labelColor=4F5B93&logo=PHP&style=for-the-badge&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-grey?labelColor=42b983&logo=Vue.js&style=for-the-badge&logoColor=white)
-![Bulma](https://img.shields.io/badge/Bulma-grey?labelColor=00d1b2&logo=Bulma&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Amazon%20Web%20Services%20(AWS)-grey?labelColor=FF9900&logo=Amazon&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Google%20Cloud%20Platform%20(GCP)-grey?labelColor=4285F4&logo=GoogleCloud&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Terraform-grey?labelColor=7B42BC&logo=Terraform&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/GitHub%20Actions-grey?labelColor=2088FF&logo=GitHubActions&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Golang-grey?labelColor=00ADD8&logo=Go&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Typescript-grey?labelColor=3178C6&logo=Typescript&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/PHP-grey?labelColor=777BB4&logo=PHP&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Vue.js-grey?labelColor=4FC08D&logo=Vue.js&style=for-the-badge&logoColor=white)
 
 ## Tools
-![Linux](https://img.shields.io/badge/linux-grey?labelColor=000000&logo=Linux&style=for-the-badge&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/ubuntu-grey?labelColor=e95420&logo=Ubuntu&style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-grey?labelColor=f14e32&logo=Git&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/GitHub-grey?labelColor=181717&logo=GitHub&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Visual%20Studio%20Code-grey?labelColor=007ACC&logo=VisualStudioCode&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/linux-grey?labelColor=FCC624&logo=Linux&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/macOS-grey?labelColor=000000&logo=macos&style=for-the-badge&logoColor=white)
 
 ## Stats
-![GitHub Stats](https://github-readme-stats.char-al.vercel.app/api?username=strongishllama&show_icons=true&count_private=true&title_color=000000&text_color000000&bg_color=45,0390fc,03e8fc)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strongishllama&hide=html&title_color=000000&text_color000000&bg_color=45,0390fc,03e8fc)
+![](https://github-readme-stats.char-al.vercel.app/api?username=strongishllama&show_icons=true&count_private=true&theme=synthwave)
