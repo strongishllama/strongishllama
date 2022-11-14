@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Taliesin, a Platform Engineer living in Canberra Australia and working at [Max Kelsen](https://github.com/MaxKelsen) creating cloud-native applications, CI/CD pipelines and automated testing workflows in both Amazon Web Services (AWS) and Google Cloud Platform (GCP).
+I'm Taliesin, a Platform Engineer working at Max Kelsen in a team that is responsible for designing and implementing our internal software platform at [Max Kelsen](https://github.com/MaxKelsen), following GitOps principles and creating a DevOps first culture. Thus, enabling our engineering teams to move fast and deliver high-quality products and services for our global clients.
 
 ## Get in Touch
 [![](https://img.shields.io/badge/LinkedIn-grey?labelColor=0A66C2&logo=LinkedIn&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/taliesin-millhouse-00001)
