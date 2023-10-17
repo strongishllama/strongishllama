@@ -11,7 +11,6 @@ I'm Taliesin, Lead Platform Engineer living on the Sapphire Coast of NSW Austral
 
 ## Certificates
 
-[<img src="https://raw.githubusercontent.com/strongishllama/strongishllama/main/assets/kubernetes-and-cloud-native-associate.png" height="150px">](https://www.credly.com/badges/03f78ed9-acb3-41e4-b023-175b3d32843c)
 [<img src="https://raw.githubusercontent.com/strongishllama/strongishllama/main/assets/google-certified-professional-cloud-architect.png" height="150px">](https://www.credential.net/9304338f-fac9-4663-b80f-97a7de76c9db)
 [<img src="https://raw.githubusercontent.com/strongishllama/strongishllama/main/assets/google-certified-professional-cloud-developer.png" height="150px">](https://www.credential.net/84cd894b-71e5-4952-8de8-b2a03f3b4acb)
 [<img src="https://raw.githubusercontent.com/strongishllama/strongishllama/main/assets/google-certified-associate-cloud-engineer.png" height="150px">](https://www.credential.net/e911568a-7466-47d2-a129-01ecc41dc9c4)
