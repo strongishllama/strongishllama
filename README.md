@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Taliesin, Lead Platform Engineer living on the Sapphire Coast of NSW Australia, currently working remotely at Bain & Company. In my free time I like to contribute to open source projects in the DevOps/Platform engineering space that interest me.
+I'm Taliesin, a Site Reliability Eningeer living on the Sapphire Coast of NSW Australia, currently working remotely at GitLab. In my free time I like to contribute to open source projects in the DevOps/Platform engineering space that interest me.
 
 ## Find me on
 
