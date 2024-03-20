@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Taliesin, a Site Reliability Engineer living on the [Sapphire Coast](https://www.sapphirecoast.com.au) of NSW Australia, currently working on the [Scalability::Observability Team](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/scalability/observability) at GitLab.
+I'm Taliesin, a [Site Reliability Engineer](https://handbook.gitlab.com/job-families/engineering/infrastructure/site-reliability-engineer) living on the [Sapphire Coast](https://www.sapphirecoast.com.au) of NSW Australia, currently working on the [Scalability: Observability Team](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/scalability/observability) at GitLab.
 
 # Work Style
 
