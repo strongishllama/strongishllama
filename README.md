@@ -14,7 +14,7 @@ Due to having a young family, [asynchronous communication](https://handbook.gitl
 
 For anything work related, you can email me at tmillhouse@gitlab.com. For anything else, here are a few places you can find [me](https://millhouse.dev/contact).
 
-I try and be direct, kind and empathetic towards others. Leaving ego at the door and using language that is inclusive and easy to follow. When communicating with me if you feel I can improve on this in any way, or others, please let me know.
+I try and be direct, kind and empathetic towards others. Leaving ego at the door and using language that is inclusive and easy to follow. When communicating with me if you feel I can improve on this in any way, please let me know.
 
 # Interests and Hobbies
 
